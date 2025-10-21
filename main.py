@@ -85,4 +85,5 @@ zero_button.grid(row=6, column=1, padx=10, pady=10, sticky="nsew")
 equals_button = Button(text="=", font=("Arial", 17), bg="orange", fg="white", justify="center", padx=15, command=equals_clicked)
 equals_button.grid(row=6, column=3, padx=10, pady=10, sticky="nsew")
 
-win.mainloop()
+win.mainloop()  
+
